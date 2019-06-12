@@ -1,0 +1,1102 @@
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000164.jpg: 1 refrigerators, 6 bottles, 9 wine glasss, 2 cups, 1 chairs, 1 bowls, 1 microwaves, 1 persons, Done. (0.964s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 chairs, 1 refrigerators, 1 persons, 1 bottles, 1 microwaves, Done. (0.055s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 chairs, 1 persons, 2 bottles, 1 cups, 1 microwaves, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 chairs, 1 refrigerators, 12 bottles, 1 microwaves, 1 persons, Done. (0.043s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 chairs, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 chairs, 1 refrigerators, 7 bottles, 1 microwaves, 1 persons, Done. (0.039s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 refrigerators, 1 chairs, 8 bottles, 1 microwaves, Done. (0.038s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 refrigerators, 14 bottles, 2 microwaves, 1 chairs, Done. (0.044s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 chairs, 1 refrigerators, 1 bottles, 1 persons, 1 microwaves, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 2 chairs, 1 refrigerators, 12 bottles, 1 books, 1 microwaves, 1 cups, 1 tvs, 1 persons, Done. (0.047s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000164.jpg: 1 refrigerators, 13 bottles, 1 microwaves, 1 chairs, Done. (0.042s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000192.jpg: 4 persons, 1 sports balls, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, Done. (0.056s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, Done. (0.075s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 1 sports balls, 4 persons, 1 baseball gloves, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, 1 sports balls, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 1 sports balls, 4 persons, 1 baseball gloves, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000192.jpg: 4 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000283.jpg: 1 bottles, 2 chairs, 1 wine glasss, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 1 dining tables, 1 couchs, 1 bottles, 1 wine glasss, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 1 bottles, 1 dining tables, 1 wine glasss, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 1 bottles, 1 dining tables, 1 wine glasss, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 2 bottles, 1 couchs, 1 dining tables, 1 wine glasss, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 2 bottles, 1 chairs, 1 dining tables, 1 wine glasss, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 1 bottles, 1 chairs, 1 couchs, 1 dining tables, 1 wine glasss, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 2 bottles, 1 benchs, 1 dining tables, 1 wine glasss, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 1 bottles, 1 couchs, 1 dining tables, 1 wine glasss, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 2 bottles, 1 dining tables, 1 wine glasss, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000283.jpg: 1 bottles, 1 dining tables, 1 benchs, 1 wine glasss, Done. (0.037s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000397.jpg: 1 persons, 1 cups, 1 pizzas, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 persons, 1 beds, Done. (0.058s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 dining tables, 1 pizzas, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 persons, 1 pizzas, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 beds, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 persons, 1 beds, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 persons, 1 beds, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 persons, 1 beds, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 dining tables, 1 pizzas, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 1 beds, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000397.jpg: 2 persons, 1 pizzas, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.060s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000589.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000599.jpg: 2 remotes, 1 cats, 1 couchs, 1 potted plants, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 1 remotes, 1 couchs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 2 remotes, 1 couchs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 2 remotes, 1 cats, 1 couchs, 1 potted plants, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 2 remotes, 1 couchs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 1 remotes, 1 couchs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 2 remotes, 1 cats, 2 couchs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 2 remotes, 1 couchs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 2 remotes, 1 cats, 2 couchs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 2 remotes, 1 couchs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000599.jpg: 1 cats, 2 remotes, 1 couchs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000711.jpg: 3 couchs, 1 beds, 3 chairs, 1 bowls, 1 remotes, 1 potted plants, Done. (0.039s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 3 couchs, 1 remotes, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 2 couchs, 1 remotes, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 3 couchs, 1 potted plants, 1 remotes, 1 backpacks, 1 bowls, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 1 beds, 2 couchs, 1 remotes, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 3 couchs, 1 remotes, 1 potted plants, 1 bowls, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 2 couchs, 1 remotes, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 1 beds, 2 couchs, 1 remotes, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 1 beds, 2 couchs, 1 remotes, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 1 remotes, 1 potted plants, 3 couchs, 1 chairs, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000711.jpg: 1 beds, 2 couchs, 1 remotes, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000757.jpg: 2 elephants, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 2 elephants, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000757.jpg: 2 elephants, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000764.jpg: 21 persons, 1 backpacks, Done. (0.047s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 14 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 18 persons, Done. (0.043s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 14 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 14 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 13 persons, Done. (0.039s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 16 persons, Done. (0.041s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 17 persons, Done. (0.042s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 14 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 14 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000764.jpg: 14 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000872.jpg: 2 persons, 1 baseball gloves, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000000872.jpg: 3 persons, 1 baseball gloves, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001063.jpg: 1 giraffes, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000001554.jpg: 1 trucks, 3 sheeps, 9 persons, 1 handbags, Done. (0.041s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 1 trucks, 3 sheeps, 6 persons, Done. (0.039s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 3 sheeps, 5 persons, Done. (0.037s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 trucks, 3 sheeps, 6 persons, Done. (0.038s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 3 sheeps, 6 persons, Done. (0.038s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 trucks, 3 sheeps, 7 persons, Done. (0.039s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 3 sheeps, 9 persons, Done. (0.040s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 3 sheeps, 3 persons, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 2 sheeps, 6 persons, Done. (0.037s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 3 sheeps, 6 persons, Done. (0.038s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001554.jpg: 1 cars, 2 sheeps, 5 persons, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000001667.jpg: 4 persons, 2 benchs, 1 toothbrushs, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 4 persons, 1 bottles, 1 toothbrushs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 3 persons, 1 bottles, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 3 persons, 1 bottles, 1 cups, 1 toothbrushs, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 3 persons, 1 bottles, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 3 persons, 1 cups, 1 toothbrushs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 3 persons, 1 cups, 1 toothbrushs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 4 persons, 1 bottles, 1 toothbrushs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 1 umbrellas, 3 persons, 1 bottles, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 4 persons, 1 bottles, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001667.jpg: 3 persons, 1 bottles, Done. (0.069s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, 1 skateboards, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001700.jpg: 1 persons, 1 snowboards, 1 skateboards, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000001869.jpg: 4 elephants, 1 sheeps, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 3 elephants, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 4 elephants, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 4 elephants, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 2 elephants, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 4 elephants, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 3 elephants, 1 horses, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000001869.jpg: 3 elephants, 1 horses, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002124.jpg: 14 persons, 2 trucks, 1 cars, 2 horses, Done. (0.045s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 1 cars, 1 persons, 1 trucks, 2 horses, Done. (0.038s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 2 persons, 2 trucks, 2 horses, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 3 trucks, 1 horses, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 1 trucks, 1 cars, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 1 cars, 2 persons, 2 trucks, 1 horses, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 2 trucks, 1 cars, 7 persons, 1 horses, Done. (0.039s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 3 trucks, 12 persons, 2 horses, Done. (0.043s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 2 persons, 2 trucks, 2 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 2 trucks, 15 persons, 1 horses, Done. (0.044s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002124.jpg: 3 trucks, 11 persons, 2 horses, Done. (0.042s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002261.jpg: 1 persons, 1 surfboards, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002621.jpg: 2 traffic lights, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: 1 backpacks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: 1 chairs, 2 backpacks, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: 2 traffic lights, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: 1 backpacks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002621.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 8 zebras, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 8 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 8 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 8 zebras, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002684.jpg: 9 zebras, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002764.jpg: 7 persons, 3 boats, Done. (0.037s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 2 boats, 4 persons, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 boats, 3 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 2 boats, 3 persons, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 2 boats, 3 persons, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 persons, 1 birds, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 persons, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 birds, 2 boats, 4 persons, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002764.jpg: 1 birds, 2 boats, 4 persons, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002894.jpg: 2 trains, 1 traffic lights, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 1 trains, 1 traffic lights, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, 1 traffic lights, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, 1 traffic lights, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002894.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 1 trains, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 1 trains, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 2 trains, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000002972.jpg: 1 trains, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003035.jpg: 1 airplanes, 3 trucks, 1 cars, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 3 cars, 1 airplanes, 1 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 2 trucks, 2 cars, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 2 trucks, 4 cars, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 2 cars, 1 trucks, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 2 trucks, 3 cars, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 1 cars, 1 trucks, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 2 cars, 1 airplanes, 2 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 1 cars, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 1 airplanes, 2 trucks, 2 cars, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003035.jpg: 2 cars, 1 airplanes, 2 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003084.jpg: 1 clocks, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003103.jpg: 1 skateboards, 1 persons, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 1 persons, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 2 persons, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 1 persons, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003103.jpg: 1 skateboards, 1 persons, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003109.jpg: 1 persons, 2 chairs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 chairs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 chairs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 chairs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 dining tables, 1 chairs, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 2 chairs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 dining tables, 1 chairs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 chairs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 chairs, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003109.jpg: 1 umbrellas, 1 persons, 1 dining tables, 1 chairs, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003134.jpg: 1 buss, 4 traffic lights, 1 trucks, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 4 traffic lights, 1 persons, 1 trucks, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 4 traffic lights, 1 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 2 traffic lights, 1 trucks, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 3 traffic lights, 1 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 3 traffic lights, 1 persons, 1 trucks, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 4 traffic lights, 1 persons, 1 trucks, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 3 traffic lights, 1 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 2 traffic lights, 1 persons, 2 trucks, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 2 traffic lights, 1 persons, 1 trucks, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003134.jpg: 1 buss, 3 traffic lights, 1 persons, 1 trucks, Done. (0.035s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 5 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 4 persons, 1 horses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003209.jpg: 5 persons, 1 horses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 tvs, 1 laptops, 1 keyboards, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 tvs, 1 laptops, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.034s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003244.jpg: 1 laptops, 1 keyboards, 1 tvs, 1 mouses, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003326.jpg: 2 persons, 2 boats, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 2 boats, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 3 boats, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003326.jpg: 2 persons, 1 boats, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003337.jpg: 2 cars, 1 persons, 1 cell phones, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, 1 clocks, Done. (0.032s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 cars, 1 persons, 1 clocks, 1 cell phones, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003337.jpg: 1 persons, 1 cell phones, Done. (0.031s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000003661.jpg: 1 dining tables, 1 apples, 4 bananas, 1 cups, Done. (0.036s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 teddy bears, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 teddy bears, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 teddy bears, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 elephants, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 apples, 2 bananas, 1 cups, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 apples, 2 bananas, 1 cups, Done. (0.033s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: Done. (0.027s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 data/samples/COCO_val2014_000000003661.jpg: 1 suitcases, Done. (0.030s)
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+      Image      Total          P          R        mAP
+         32         32      0.507      0.465      0.461       1.01s
+
+mAP Per Class:
+         person: 0.5944
+            car: 0.2500
+       airplane: 1.0000
+            bus: 1.0000
+          train: 0.7500
+          truck: 0.3750
+           boat: 0.3750
+  traffic light: 0.3333
+   fire hydrant: 0.0000
+  parking meter: 0.0000
+          bench: 0.0000
+            cat: 0.5000
+          horse: 0.2333
+          sheep: 0.6667
+            cow: 0.0000
+       elephant: 0.5417
+          zebra: 0.8000
+        giraffe: 1.0000
+       umbrella: 0.3333
+        handbag: 0.0000
+        frisbee: 0.0000
+      snowboard: 0.0000
+    sports ball: 0.0000
+   baseball bat: 0.0000
+ baseball glove: 0.0000
+     skateboard: 0.5000
+      surfboard: 1.0000
+         bottle: 0.3853
+     wine glass: 0.5000
+            cup: 0.0000
+           fork: 0.0000
+          knife: 0.0000
+          spoon: 0.0000
+           bowl: 0.0000
+         banana: 0.0000
+          pizza: 0.0000
+           cake: 0.0000
+          chair: 0.3000
+          couch: 0.6667
+   potted plant: 0.0000
+            bed: 0.0000
+   dining table: 0.2000
+             tv: 1.0000
+         laptop: 1.0000
+          mouse: 1.0000
+         remote: 1.0000
+       keyboard: 0.5000
+     cell phone: 0.5000
+      microwave: 1.0000
+           oven: 0.0000
+   refrigerator: 1.0000
+           book: 0.0000
+          clock: 0.3333
+           vase: 0.0000
+     teddy bear: 0.0000

@@ -1,0 +1,3 @@
+Using cuda _CudaDeviceProperties(name='GeForce GTX TITAN X', major=5, minor=2, total_memory=12212MB, multi_processor_count=24)
+
+image 1/1 /vol/gpudata/sd4215/ultralytics/yolov3/coco/images/val2014/COCO_val2014_000000000164.jpg: 1 refrigerators, 6 bottles, 9 wine glasss, 2 cups, 1 chairs, 1 bowls, 1 microwaves, 1 persons, Done. (0.486s)

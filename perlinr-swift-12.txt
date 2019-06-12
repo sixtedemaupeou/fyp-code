@@ -1,0 +1,750 @@
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 53.89 %
+	sidewalk IoU accuracy = 5.95 %
+	building IoU accuracy = 37.13 %
+	wall IoU accuracy = 3.54 %
+	fence IoU accuracy = 12.09 %
+	pole IoU accuracy = 15.83 %
+	traffic light IoU accuracy = 16.71 %
+	traffic sign IoU accuracy = 29.14 %
+	vegetation IoU accuracy = 69.21 %
+	terrain IoU accuracy = 13.91 %
+	sky IoU accuracy = 7.19 %
+	person IoU accuracy = 40.93 %
+	rider IoU accuracy = 5.52 %
+	car IoU accuracy = 36.19 %
+	truck IoU accuracy = 7.64 %
+	bus IoU accuracy = 19.40 %
+	train IoU accuracy = 3.21 %
+	motorcycle IoU accuracy = 4.32 %
+	bicycle IoU accuracy = 18.35 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 21.06 %
+mean class recall -> TP / (TP+FN) = 67.64 %
+mean class precision -> TP / (TP+FP) = 26.92 %
+pixel accuracy = 60.09 %
+val: 21.06
+21.05979434853276
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 41.80 %
+	sidewalk IoU accuracy = 3.56 %
+	building IoU accuracy = 29.41 %
+	wall IoU accuracy = 1.27 %
+	fence IoU accuracy = 5.42 %
+	pole IoU accuracy = 10.33 %
+	traffic light IoU accuracy = 10.51 %
+	traffic sign IoU accuracy = 15.44 %
+	vegetation IoU accuracy = 31.71 %
+	terrain IoU accuracy = 4.01 %
+	sky IoU accuracy = 7.17 %
+	person IoU accuracy = 35.57 %
+	rider IoU accuracy = 4.44 %
+	car IoU accuracy = 22.86 %
+	truck IoU accuracy = 6.80 %
+	bus IoU accuracy = 4.59 %
+	train IoU accuracy = 5.16 %
+	motorcycle IoU accuracy = 0.95 %
+	bicycle IoU accuracy = 10.10 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 13.22 %
+mean class recall -> TP / (TP+FN) = 72.50 %
+mean class precision -> TP / (TP+FP) = 17.46 %
+pixel accuracy = 46.34 %
+val: 13.22
+13.216388141040404
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 65.92 %
+	sidewalk IoU accuracy = 4.96 %
+	building IoU accuracy = 34.93 %
+	wall IoU accuracy = 1.21 %
+	fence IoU accuracy = 6.28 %
+	pole IoU accuracy = 11.71 %
+	traffic light IoU accuracy = 10.69 %
+	traffic sign IoU accuracy = 17.73 %
+	vegetation IoU accuracy = 37.48 %
+	terrain IoU accuracy = 5.58 %
+	sky IoU accuracy = 8.83 %
+	person IoU accuracy = 37.22 %
+	rider IoU accuracy = 5.84 %
+	car IoU accuracy = 27.03 %
+	truck IoU accuracy = 9.92 %
+	bus IoU accuracy = 5.85 %
+	train IoU accuracy = 8.92 %
+	motorcycle IoU accuracy = 0.81 %
+	bicycle IoU accuracy = 10.56 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 16.39 %
+mean class recall -> TP / (TP+FN) = 73.63 %
+mean class precision -> TP / (TP+FP) = 20.55 %
+pixel accuracy = 57.47 %
+val: 16.39
+13.216388141040404
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 86.09 %
+	sidewalk IoU accuracy = 16.98 %
+	building IoU accuracy = 55.60 %
+	wall IoU accuracy = 3.42 %
+	fence IoU accuracy = 9.95 %
+	pole IoU accuracy = 16.40 %
+	traffic light IoU accuracy = 16.11 %
+	traffic sign IoU accuracy = 30.04 %
+	vegetation IoU accuracy = 70.96 %
+	terrain IoU accuracy = 27.10 %
+	sky IoU accuracy = 18.52 %
+	person IoU accuracy = 46.45 %
+	rider IoU accuracy = 12.44 %
+	car IoU accuracy = 59.09 %
+	truck IoU accuracy = 15.02 %
+	bus IoU accuracy = 25.79 %
+	train IoU accuracy = 12.76 %
+	motorcycle IoU accuracy = 6.26 %
+	bicycle IoU accuracy = 22.01 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 29.00 %
+mean class recall -> TP / (TP+FN) = 73.55 %
+mean class precision -> TP / (TP+FP) = 34.11 %
+pixel accuracy = 77.50 %
+val: 29.00
+13.216388141040404
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 42.75 %
+	sidewalk IoU accuracy = 26.99 %
+	building IoU accuracy = 43.68 %
+	wall IoU accuracy = 6.94 %
+	fence IoU accuracy = 34.87 %
+	pole IoU accuracy = 45.57 %
+	traffic light IoU accuracy = 39.21 %
+	traffic sign IoU accuracy = 61.55 %
+	vegetation IoU accuracy = 74.77 %
+	terrain IoU accuracy = 22.07 %
+	sky IoU accuracy = 79.08 %
+	person IoU accuracy = 59.27 %
+	rider IoU accuracy = 42.89 %
+	car IoU accuracy = 75.64 %
+	truck IoU accuracy = 8.02 %
+	bus IoU accuracy = 28.36 %
+	train IoU accuracy = 10.56 %
+	motorcycle IoU accuracy = 18.84 %
+	bicycle IoU accuracy = 49.07 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 40.53 %
+mean class recall -> TP / (TP+FN) = 61.75 %
+mean class precision -> TP / (TP+FP) = 56.10 %
+pixel accuracy = 65.75 %
+val: 40.53
+13.216388141040404
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 91.14 %
+	sidewalk IoU accuracy = 31.54 %
+	building IoU accuracy = 64.71 %
+	wall IoU accuracy = 5.19 %
+	fence IoU accuracy = 18.22 %
+	pole IoU accuracy = 26.50 %
+	traffic light IoU accuracy = 24.33 %
+	traffic sign IoU accuracy = 39.95 %
+	vegetation IoU accuracy = 71.52 %
+	terrain IoU accuracy = 37.26 %
+	sky IoU accuracy = 69.83 %
+	person IoU accuracy = 54.14 %
+	rider IoU accuracy = 20.84 %
+	car IoU accuracy = 79.83 %
+	truck IoU accuracy = 33.44 %
+	bus IoU accuracy = 40.70 %
+	train IoU accuracy = 33.10 %
+	motorcycle IoU accuracy = 19.05 %
+	bicycle IoU accuracy = 31.99 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 41.75 %
+mean class recall -> TP / (TP+FN) = 78.18 %
+mean class precision -> TP / (TP+FP) = 47.66 %
+pixel accuracy = 83.60 %
+val: 41.75
+13.216388141040404
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 72.58 %
+	sidewalk IoU accuracy = 7.96 %
+	building IoU accuracy = 39.21 %
+	wall IoU accuracy = 1.42 %
+	fence IoU accuracy = 7.06 %
+	pole IoU accuracy = 13.03 %
+	traffic light IoU accuracy = 12.09 %
+	traffic sign IoU accuracy = 20.09 %
+	vegetation IoU accuracy = 50.12 %
+	terrain IoU accuracy = 8.99 %
+	sky IoU accuracy = 10.06 %
+	person IoU accuracy = 41.70 %
+	rider IoU accuracy = 8.24 %
+	car IoU accuracy = 38.75 %
+	truck IoU accuracy = 13.46 %
+	bus IoU accuracy = 8.78 %
+	train IoU accuracy = 17.17 %
+	motorcycle IoU accuracy = 1.71 %
+	bicycle IoU accuracy = 12.44 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 20.26 %
+mean class recall -> TP / (TP+FN) = 75.33 %
+mean class precision -> TP / (TP+FP) = 24.48 %
+pixel accuracy = 63.79 %
+val: 20.26
+13.216388141040404
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 2.49 %
+	sidewalk IoU accuracy = 0.83 %
+	building IoU accuracy = 23.83 %
+	wall IoU accuracy = 1.23 %
+	fence IoU accuracy = 7.89 %
+	pole IoU accuracy = 7.88 %
+	traffic light IoU accuracy = 11.16 %
+	traffic sign IoU accuracy = 15.12 %
+	vegetation IoU accuracy = 26.97 %
+	terrain IoU accuracy = 1.71 %
+	sky IoU accuracy = 1.93 %
+	person IoU accuracy = 29.78 %
+	rider IoU accuracy = 1.96 %
+	car IoU accuracy = 16.74 %
+	truck IoU accuracy = 4.48 %
+	bus IoU accuracy = 5.77 %
+	train IoU accuracy = 1.96 %
+	motorcycle IoU accuracy = 1.25 %
+	bicycle IoU accuracy = 10.41 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 9.12 %
+mean class recall -> TP / (TP+FN) = 68.98 %
+mean class precision -> TP / (TP+FP) = 13.54 %
+pixel accuracy = 29.58 %
+val: 9.12
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 92.03 %
+	sidewalk IoU accuracy = 38.24 %
+	building IoU accuracy = 66.66 %
+	wall IoU accuracy = 6.41 %
+	fence IoU accuracy = 20.43 %
+	pole IoU accuracy = 30.68 %
+	traffic light IoU accuracy = 27.30 %
+	traffic sign IoU accuracy = 43.07 %
+	vegetation IoU accuracy = 70.05 %
+	terrain IoU accuracy = 41.42 %
+	sky IoU accuracy = 76.57 %
+	person IoU accuracy = 56.11 %
+	rider IoU accuracy = 24.86 %
+	car IoU accuracy = 82.91 %
+	truck IoU accuracy = 39.23 %
+	bus IoU accuracy = 48.40 %
+	train IoU accuracy = 33.47 %
+	motorcycle IoU accuracy = 21.48 %
+	bicycle IoU accuracy = 36.03 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 45.02 %
+mean class recall -> TP / (TP+FN) = 78.86 %
+mean class precision -> TP / (TP+FP) = 51.29 %
+pixel accuracy = 84.67 %
+val: 45.02
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 5.70 %
+	sidewalk IoU accuracy = 0.89 %
+	building IoU accuracy = 24.27 %
+	wall IoU accuracy = 1.22 %
+	fence IoU accuracy = 5.73 %
+	pole IoU accuracy = 8.31 %
+	traffic light IoU accuracy = 11.15 %
+	traffic sign IoU accuracy = 13.97 %
+	vegetation IoU accuracy = 30.38 %
+	terrain IoU accuracy = 2.44 %
+	sky IoU accuracy = 2.19 %
+	person IoU accuracy = 29.71 %
+	rider IoU accuracy = 3.24 %
+	car IoU accuracy = 15.03 %
+	truck IoU accuracy = 4.32 %
+	bus IoU accuracy = 5.19 %
+	train IoU accuracy = 0.01 %
+	motorcycle IoU accuracy = 0.68 %
+	bicycle IoU accuracy = 10.36 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 9.20 %
+mean class recall -> TP / (TP+FN) = 65.50 %
+mean class precision -> TP / (TP+FP) = 13.56 %
+pixel accuracy = 31.28 %
+val: 9.20
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 88.29 %
+	sidewalk IoU accuracy = 21.81 %
+	building IoU accuracy = 63.59 %
+	wall IoU accuracy = 3.99 %
+	fence IoU accuracy = 12.27 %
+	pole IoU accuracy = 18.30 %
+	traffic light IoU accuracy = 19.05 %
+	traffic sign IoU accuracy = 35.17 %
+	vegetation IoU accuracy = 75.48 %
+	terrain IoU accuracy = 34.64 %
+	sky IoU accuracy = 30.25 %
+	person IoU accuracy = 49.19 %
+	rider IoU accuracy = 14.56 %
+	car IoU accuracy = 68.47 %
+	truck IoU accuracy = 19.05 %
+	bus IoU accuracy = 31.41 %
+	train IoU accuracy = 16.70 %
+	motorcycle IoU accuracy = 7.91 %
+	bicycle IoU accuracy = 25.13 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 33.43 %
+mean class recall -> TP / (TP+FN) = 74.51 %
+mean class precision -> TP / (TP+FP) = 38.79 %
+pixel accuracy = 81.48 %
+val: 33.43
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 55.06 %
+	sidewalk IoU accuracy = 5.01 %
+	building IoU accuracy = 40.11 %
+	wall IoU accuracy = 3.71 %
+	fence IoU accuracy = 17.73 %
+	pole IoU accuracy = 20.26 %
+	traffic light IoU accuracy = 26.43 %
+	traffic sign IoU accuracy = 37.65 %
+	vegetation IoU accuracy = 70.73 %
+	terrain IoU accuracy = 10.39 %
+	sky IoU accuracy = 11.93 %
+	person IoU accuracy = 42.86 %
+	rider IoU accuracy = 10.41 %
+	car IoU accuracy = 36.02 %
+	truck IoU accuracy = 6.20 %
+	bus IoU accuracy = 20.14 %
+	train IoU accuracy = 0.08 %
+	motorcycle IoU accuracy = 4.96 %
+	bicycle IoU accuracy = 19.85 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 23.14 %
+mean class recall -> TP / (TP+FN) = 63.83 %
+mean class precision -> TP / (TP+FP) = 30.22 %
+pixel accuracy = 62.05 %
+val: 23.14
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 2.97 %
+	sidewalk IoU accuracy = 1.13 %
+	building IoU accuracy = 24.60 %
+	wall IoU accuracy = 1.68 %
+	fence IoU accuracy = 11.89 %
+	pole IoU accuracy = 10.57 %
+	traffic light IoU accuracy = 16.76 %
+	traffic sign IoU accuracy = 19.79 %
+	vegetation IoU accuracy = 34.80 %
+	terrain IoU accuracy = 2.69 %
+	sky IoU accuracy = 3.36 %
+	person IoU accuracy = 32.00 %
+	rider IoU accuracy = 4.06 %
+	car IoU accuracy = 27.91 %
+	truck IoU accuracy = 6.49 %
+	bus IoU accuracy = 11.09 %
+	train IoU accuracy = 1.33 %
+	motorcycle IoU accuracy = 3.62 %
+	bicycle IoU accuracy = 14.58 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 12.18 %
+mean class recall -> TP / (TP+FN) = 65.41 %
+mean class precision -> TP / (TP+FP) = 16.90 %
+pixel accuracy = 32.19 %
+val: 12.18
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 85.82 %
+	sidewalk IoU accuracy = 16.00 %
+	building IoU accuracy = 53.64 %
+	wall IoU accuracy = 2.43 %
+	fence IoU accuracy = 10.02 %
+	pole IoU accuracy = 15.82 %
+	traffic light IoU accuracy = 15.31 %
+	traffic sign IoU accuracy = 28.34 %
+	vegetation IoU accuracy = 70.61 %
+	terrain IoU accuracy = 23.12 %
+	sky IoU accuracy = 20.20 %
+	person IoU accuracy = 46.95 %
+	rider IoU accuracy = 12.87 %
+	car IoU accuracy = 58.53 %
+	truck IoU accuracy = 13.62 %
+	bus IoU accuracy = 22.76 %
+	train IoU accuracy = 17.27 %
+	motorcycle IoU accuracy = 5.44 %
+	bicycle IoU accuracy = 19.94 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 28.35 %
+mean class recall -> TP / (TP+FN) = 74.50 %
+mean class precision -> TP / (TP+FP) = 33.02 %
+pixel accuracy = 76.75 %
+val: 28.35
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 26.65 %
+	sidewalk IoU accuracy = 2.34 %
+	building IoU accuracy = 28.77 %
+	wall IoU accuracy = 2.32 %
+	fence IoU accuracy = 9.82 %
+	pole IoU accuracy = 13.25 %
+	traffic light IoU accuracy = 15.44 %
+	traffic sign IoU accuracy = 24.23 %
+	vegetation IoU accuracy = 52.67 %
+	terrain IoU accuracy = 6.11 %
+	sky IoU accuracy = 3.34 %
+	person IoU accuracy = 35.48 %
+	rider IoU accuracy = 3.76 %
+	car IoU accuracy = 26.13 %
+	truck IoU accuracy = 6.30 %
+	bus IoU accuracy = 13.88 %
+	train IoU accuracy = 0.60 %
+	motorcycle IoU accuracy = 1.82 %
+	bicycle IoU accuracy = 14.45 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 15.12 %
+mean class recall -> TP / (TP+FN) = 67.95 %
+mean class precision -> TP / (TP+FP) = 20.09 %
+pixel accuracy = 44.53 %
+val: 15.12
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 4.52 %
+	sidewalk IoU accuracy = 0.80 %
+	building IoU accuracy = 24.26 %
+	wall IoU accuracy = 1.39 %
+	fence IoU accuracy = 6.60 %
+	pole IoU accuracy = 10.68 %
+	traffic light IoU accuracy = 13.98 %
+	traffic sign IoU accuracy = 17.09 %
+	vegetation IoU accuracy = 30.57 %
+	terrain IoU accuracy = 2.60 %
+	sky IoU accuracy = 1.47 %
+	person IoU accuracy = 30.57 %
+	rider IoU accuracy = 2.37 %
+	car IoU accuracy = 18.43 %
+	truck IoU accuracy = 4.51 %
+	bus IoU accuracy = 7.92 %
+	train IoU accuracy = 1.65 %
+	motorcycle IoU accuracy = 0.55 %
+	bicycle IoU accuracy = 11.26 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 10.06 %
+mean class recall -> TP / (TP+FN) = 67.64 %
+mean class precision -> TP / (TP+FP) = 14.47 %
+pixel accuracy = 31.16 %
+val: 10.06
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 91.84 %
+	sidewalk IoU accuracy = 36.90 %
+	building IoU accuracy = 66.01 %
+	wall IoU accuracy = 7.01 %
+	fence IoU accuracy = 19.65 %
+	pole IoU accuracy = 30.02 %
+	traffic light IoU accuracy = 27.20 %
+	traffic sign IoU accuracy = 42.76 %
+	vegetation IoU accuracy = 70.03 %
+	terrain IoU accuracy = 41.52 %
+	sky IoU accuracy = 75.93 %
+	person IoU accuracy = 55.94 %
+	rider IoU accuracy = 23.71 %
+	car IoU accuracy = 82.62 %
+	truck IoU accuracy = 38.75 %
+	bus IoU accuracy = 45.55 %
+	train IoU accuracy = 32.34 %
+	motorcycle IoU accuracy = 20.62 %
+	bicycle IoU accuracy = 35.68 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 44.43 %
+mean class recall -> TP / (TP+FN) = 78.83 %
+mean class precision -> TP / (TP+FP) = 50.66 %
+pixel accuracy = 84.40 %
+val: 44.43
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 13.54 %
+	sidewalk IoU accuracy = 2.75 %
+	building IoU accuracy = 27.34 %
+	wall IoU accuracy = 2.04 %
+	fence IoU accuracy = 14.94 %
+	pole IoU accuracy = 14.77 %
+	traffic light IoU accuracy = 19.29 %
+	traffic sign IoU accuracy = 27.12 %
+	vegetation IoU accuracy = 54.35 %
+	terrain IoU accuracy = 5.05 %
+	sky IoU accuracy = 3.71 %
+	person IoU accuracy = 36.77 %
+	rider IoU accuracy = 5.85 %
+	car IoU accuracy = 31.36 %
+	truck IoU accuracy = 5.75 %
+	bus IoU accuracy = 12.59 %
+	train IoU accuracy = 1.12 %
+	motorcycle IoU accuracy = 3.60 %
+	bicycle IoU accuracy = 17.02 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 15.74 %
+mean class recall -> TP / (TP+FN) = 66.43 %
+mean class precision -> TP / (TP+FP) = 21.23 %
+pixel accuracy = 40.39 %
+val: 15.74
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 92.09 %
+	sidewalk IoU accuracy = 37.55 %
+	building IoU accuracy = 65.45 %
+	wall IoU accuracy = 7.49 %
+	fence IoU accuracy = 19.53 %
+	pole IoU accuracy = 28.79 %
+	traffic light IoU accuracy = 26.16 %
+	traffic sign IoU accuracy = 41.09 %
+	vegetation IoU accuracy = 69.19 %
+	terrain IoU accuracy = 39.94 %
+	sky IoU accuracy = 75.20 %
+	person IoU accuracy = 55.24 %
+	rider IoU accuracy = 22.34 %
+	car IoU accuracy = 81.78 %
+	truck IoU accuracy = 39.22 %
+	bus IoU accuracy = 43.53 %
+	train IoU accuracy = 34.90 %
+	motorcycle IoU accuracy = 18.96 %
+	bicycle IoU accuracy = 34.58 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 43.84 %
+mean class recall -> TP / (TP+FN) = 79.14 %
+mean class precision -> TP / (TP+FP) = 49.79 %
+pixel accuracy = 84.19 %
+val: 43.84
+9.124241837728817
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 0.60 %
+	sidewalk IoU accuracy = 0.23 %
+	building IoU accuracy = 22.89 %
+	wall IoU accuracy = 0.42 %
+	fence IoU accuracy = 2.55 %
+	pole IoU accuracy = 5.37 %
+	traffic light IoU accuracy = 7.82 %
+	traffic sign IoU accuracy = 10.70 %
+	vegetation IoU accuracy = 16.12 %
+	terrain IoU accuracy = 0.52 %
+	sky IoU accuracy = 2.62 %
+	person IoU accuracy = 22.46 %
+	rider IoU accuracy = 1.77 %
+	car IoU accuracy = 7.84 %
+	truck IoU accuracy = 4.00 %
+	bus IoU accuracy = 1.80 %
+	train IoU accuracy = 0.70 %
+	motorcycle IoU accuracy = 0.07 %
+	bicycle IoU accuracy = 4.54 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 5.95 %
+mean class recall -> TP / (TP+FN) = 71.72 %
+mean class precision -> TP / (TP+FP) = 10.12 %
+pixel accuracy = 26.08 %
+val: 5.95
+5.9482097143826325
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 15.29 %
+	sidewalk IoU accuracy = 2.87 %
+	building IoU accuracy = 27.86 %
+	wall IoU accuracy = 2.90 %
+	fence IoU accuracy = 15.98 %
+	pole IoU accuracy = 16.07 %
+	traffic light IoU accuracy = 19.79 %
+	traffic sign IoU accuracy = 28.52 %
+	vegetation IoU accuracy = 57.22 %
+	terrain IoU accuracy = 6.08 %
+	sky IoU accuracy = 3.97 %
+	person IoU accuracy = 38.13 %
+	rider IoU accuracy = 5.74 %
+	car IoU accuracy = 33.20 %
+	truck IoU accuracy = 6.90 %
+	bus IoU accuracy = 18.07 %
+	train IoU accuracy = 1.50 %
+	motorcycle IoU accuracy = 3.14 %
+	bicycle IoU accuracy = 17.95 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 16.90 %
+mean class recall -> TP / (TP+FN) = 66.72 %
+mean class precision -> TP / (TP+FP) = 22.58 %
+pixel accuracy = 41.83 %
+val: 16.90
+5.9482097143826325
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 62.86 %
+	sidewalk IoU accuracy = 5.09 %
+	building IoU accuracy = 33.66 %
+	wall IoU accuracy = 0.85 %
+	fence IoU accuracy = 5.28 %
+	pole IoU accuracy = 11.12 %
+	traffic light IoU accuracy = 9.88 %
+	traffic sign IoU accuracy = 15.39 %
+	vegetation IoU accuracy = 33.90 %
+	terrain IoU accuracy = 4.46 %
+	sky IoU accuracy = 8.72 %
+	person IoU accuracy = 36.08 %
+	rider IoU accuracy = 6.12 %
+	car IoU accuracy = 26.84 %
+	truck IoU accuracy = 10.82 %
+	bus IoU accuracy = 3.59 %
+	train IoU accuracy = 8.01 %
+	motorcycle IoU accuracy = 0.32 %
+	bicycle IoU accuracy = 8.16 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 15.32 %
+mean class recall -> TP / (TP+FN) = 74.73 %
+mean class precision -> TP / (TP+FP) = 19.34 %
+pixel accuracy = 55.41 %
+val: 15.32
+5.9482097143826325
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 0.61 %
+	sidewalk IoU accuracy = 0.25 %
+	building IoU accuracy = 23.31 %
+	wall IoU accuracy = 0.67 %
+	fence IoU accuracy = 7.11 %
+	pole IoU accuracy = 6.38 %
+	traffic light IoU accuracy = 10.50 %
+	traffic sign IoU accuracy = 13.61 %
+	vegetation IoU accuracy = 22.41 %
+	terrain IoU accuracy = 1.30 %
+	sky IoU accuracy = 2.76 %
+	person IoU accuracy = 24.20 %
+	rider IoU accuracy = 1.63 %
+	car IoU accuracy = 13.85 %
+	truck IoU accuracy = 4.20 %
+	bus IoU accuracy = 3.52 %
+	train IoU accuracy = 0.36 %
+	motorcycle IoU accuracy = 0.47 %
+	bicycle IoU accuracy = 6.83 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 7.58 %
+mean class recall -> TP / (TP+FN) = 63.94 %
+mean class precision -> TP / (TP+FP) = 11.84 %
+pixel accuracy = 27.71 %
+val: 7.58
+5.9482097143826325
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 87.27 %
+	sidewalk IoU accuracy = 15.68 %
+	building IoU accuracy = 49.33 %
+	wall IoU accuracy = 1.39 %
+	fence IoU accuracy = 9.88 %
+	pole IoU accuracy = 17.08 %
+	traffic light IoU accuracy = 15.82 %
+	traffic sign IoU accuracy = 26.44 %
+	vegetation IoU accuracy = 62.13 %
+	terrain IoU accuracy = 18.45 %
+	sky IoU accuracy = 23.99 %
+	person IoU accuracy = 46.15 %
+	rider IoU accuracy = 14.44 %
+	car IoU accuracy = 56.03 %
+	truck IoU accuracy = 21.72 %
+	bus IoU accuracy = 19.57 %
+	train IoU accuracy = 29.92 %
+	motorcycle IoU accuracy = 6.16 %
+	bicycle IoU accuracy = 16.90 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 28.33 %
+mean class recall -> TP / (TP+FN) = 78.15 %
+mean class precision -> TP / (TP+FP) = 32.53 %
+pixel accuracy = 74.55 %
+val: 28.33
+5.9482097143826325
+Num images: 2975
+Num images: 500
+Num params: 13,045,056 = 1,868,544(random init) + 11,176,512(fine tune)
+
+Errors:
+	road IoU accuracy = 40.99 %
+	sidewalk IoU accuracy = 2.96 %
+	building IoU accuracy = 32.03 %
+	wall IoU accuracy = 2.95 %
+	fence IoU accuracy = 12.66 %
+	pole IoU accuracy = 15.87 %
+	traffic light IoU accuracy = 19.12 %
+	traffic sign IoU accuracy = 26.05 %
+	vegetation IoU accuracy = 57.43 %
+	terrain IoU accuracy = 6.99 %
+	sky IoU accuracy = 4.24 %
+	person IoU accuracy = 37.60 %
+	rider IoU accuracy = 4.46 %
+	car IoU accuracy = 32.54 %
+	truck IoU accuracy = 6.49 %
+	bus IoU accuracy = 15.90 %
+	train IoU accuracy = 0.17 %
+	motorcycle IoU accuracy = 4.23 %
+	bicycle IoU accuracy = 16.77 %
+IoU mean class accuracy -> TP / (TP+FN+FP) = 17.87 %
+mean class recall -> TP / (TP+FN) = 64.92 %
+mean class precision -> TP / (TP+FP) = 23.17 %
+pixel accuracy = 51.53 %
+val: 17.87
+5.9482097143826325
